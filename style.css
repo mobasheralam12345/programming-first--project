@@ -1,0 +1,136 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.heading{
+    font-size: 30px;
+    font-weight: bolder;
+    padding: 10px;
+}
+.para{
+    padding: 10px;
+    width: 80%;
+    
+}
+.btn{
+    background-color: crimson;
+    color: white;
+    border-radius: 5px;
+    padding: 10px 30px;
+    margin-left: 10px;
+    font-size: 18px;
+}
+.first-banner{
+    display: flex;
+    background-color: antiquewhite;
+
+}
+.first-banner-desc{
+    padding: 20px;
+    margin-left: 10%;
+}
+.image-container-photo{
+    width:280px;
+    margin-right: 100px;
+    margin-bottom: 0px;
+}
+.second-banner{
+    width: 50%;
+    margin: auto;
+   padding: 10px 70px;
+   text-align: center;
+}
+.delivery-container{
+    background-color: aliceblue;
+    display: flex;
+    padding: 20px;
+    width: 80%;
+    margin: auto;
+    border-radius: 5px;
+    justify-content: space-around;
+}
+.third-banner-span{
+    color: red;
+}
+.third-banner{
+    display: flex;
+    
+    margin-top: 10px;
+   justify-content: center;
+    justify-content: space-around;
+    background-color:rgba(209, 178, 178,0.9);
+}
+.third-banner-desc{
+    margin-left: 10%;
+    width: 50%;
+    margin: auto;
+}
+.fourth-banner{
+    width: 50%;
+    text-align: center;
+    margin: auto;
+    padding: 10px 30px;
+}
+.card-container{
+    display: flex;
+    border-radius: 5px;
+    gap: 5px;
+    margin-bottom: 5px;
+}
+.card-1{
+    height: auto;
+    width: 25%;
+}
+.card-2{
+    height: auto;
+    width: 25%;
+}
+.card-3{
+    height: auto;
+    width: 25%;
+}
+.card-4{
+    height: auto;
+    width: 25%;
+}
+.fifth-container{
+    background-image:url("./picture/Rectangle\ 9.png");
+    background-position: none;
+    background-repeat: no-repeat;
+    background-blend-mode: overlay;
+    padding-left: 30% 40%;
+    width: 80%;
+    margin: auto;
+    margin-bottom: 10px;
+    
+       
+}
+.fifth-container-heading{
+color:rgb(rgb(255, 115, 0), rgb(255, 255, 255), rgb(235, 235, 235))
+}
+.descrip{
+    text-align: center;
+    color:rgba(255, 0, 0, 0.692);
+}
+.fifth-container-in{
+    display: flex;
+    gap:10px;
+    justify-content: center;
+    padding: 20px;
+}
+.footer{
+    background-color: black;
+    padding: 20px;
+    text-align: center;
+}
+.spaning{
+    color:brown;
+}
+.footer-para{
+    color: white;
+    padding:10px;
+
+}
+.sp{
+    color: white;
+}
